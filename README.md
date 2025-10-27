@@ -53,6 +53,8 @@ python eval_SID_blur --Blur
 # unpaired datasets
 python eval.py --unpaired --DICM
 ```
+
+## Measure
 You can use the code below to test metrics.
 ```bash
 # paired datasets
