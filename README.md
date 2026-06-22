@@ -52,6 +52,8 @@ python eval_SID_blur --Blur
 
 # unpaired datasets
 python eval.py --unpaired --DICM
+
+......(other datasets)
 ```
 
 ## Measure
@@ -64,4 +66,6 @@ python measure_SID_blur.py --Blur
 
 # unpaired datasets
 python measure_niqe.py --DICM
+
+......(other datasets)
 ```
