@@ -18,7 +18,7 @@ This repository provides the source code, pretrained models, evaluation scripts,
 ## Results
 
 <details>
-<summary>Click to expand quantitative and qualitative results</summary>
+<summary>Click to expand experimental results</summary>
 
 ### Quantitative Results
 
