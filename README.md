@@ -2,14 +2,105 @@
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey)](#) 
 [![Code](https://img.shields.io/badge/Code-Available-brightgreen)](#)
 [![Weights](https://img.shields.io/badge/Weights-Baidu%20Pan-blue)](https://pan.baidu.com/s/1tVqnB3tovayq8DZkY0Nzbg?pwd=llzk)
+[![License](https://img.shields.io/badge/License-Research%20Only-lightgrey)](#license)
 
-Official implementation of HAIMNet: A Hierarchical Adaptive Interaction and Modulation Network for Low-Light Image Enhancement
+Official implementation of **HAIMNet: A Hierarchical Adaptive Interaction and Modulation Network for Low-Light Image Enhancement**.
+<p align="center">
+  <img src="assets/architecture.png" width="75%">
+</p>
 
 ## Overview
 
 HAIMNet is a low-light image enhancement framework designed to restore visually pleasing and detail-preserving images under challenging illumination conditions.
 
 This repository provides the source code, pretrained models, evaluation scripts, and metric computation tools for reproducing the experimental results.
+
+## Results
+
+<details>
+<summary>Click to expand quantitative and qualitative results</summary>
+
+### Quantitative Results
+
+<details>
+<summary>LOL Series</summary>
+
+<p align="center">
+  <img src="assets/LOL_series.png" width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/LOL_series_2.png" width="50%">
+</p>
+
+</details>
+
+<details>
+<summary>LOL-Blur</summary>
+
+<p align="center">
+  <img src="assets/LOL_blur.png" width="50%">
+</p>
+
+</details>
+
+<details>
+<summary>SICE / SID</summary>
+
+<p align="center">
+  <img src="assets/SICE_SID.png" width="50%">
+</p>
+
+</details>
+
+<details>
+<summary>Unpaired Datasets</summary>
+
+<p align="center">
+  <img src="assets/Unpaired.png" width="50%">
+</p>
+
+</details>
+
+<details>
+<summary>Cross-dataset Evaluation</summary>
+
+<p align="center">
+  <img src="assets/Cross.png" width="50%">
+</p>
+
+</details>
+
+<details>
+<summary>Downstream Evaluation</summary>
+
+<p align="center">
+  <img src="assets/Down_stream.png" width="50%">
+</p>
+
+</details>
+
+### Ablation Study
+
+<details>
+<summary>Ablation 1</summary>
+
+<p align="center">
+  <img src="assets/Ablation_1.png" width="50%">
+</p>
+
+</details>
+
+<details>
+<summary>Ablation 2</summary>
+
+<p align="center">
+  <img src="assets/Ablation_3.png" width="50%">
+</p>
+
+</details>
+
+</details>
 
 
 ## Getting Started
@@ -60,7 +151,7 @@ python eval_hf.py
 
 ### Evaluation on Benchmark Datasets
 
-You can test our method as followed.
+You can test our method as follows.
 
 ```bash
 # paired datasets
@@ -91,6 +182,9 @@ If this work is useful for your research, please cite:
 ```bash
 Citation information will be updated once the paper is officially available.
 ```
+
+## License
+This project is released for academic and research use. Please contact the authors for other usage.
 
 ## Acknowledgements
 We thank the authors of the public low-light image enhancement datasets and related open-source projects.
