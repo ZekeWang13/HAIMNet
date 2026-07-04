@@ -186,5 +186,10 @@ Citation information will be updated once the paper is officially available.
 ## License
 This project is released for academic and research use. Please contact the authors for other usage.
 
+For questions or suggestions, please contact:
+**Ziqian Wang**  
+M.Sc. student  
+Email: [zekewang13@126.com](mailto:zekewang13@126.com)
+
 ## Acknowledgements
 We thank the authors of the public low-light image enhancement datasets and related open-source projects.
