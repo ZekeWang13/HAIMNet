@@ -2,7 +2,7 @@
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey)](#) 
 [![Code](https://img.shields.io/badge/Code-Available-brightgreen)](#)
 [![Weights](https://img.shields.io/badge/Weights-Baidu%20Pan-blue)](https://pan.baidu.com/s/1tVqnB3tovayq8DZkY0Nzbg?pwd=llzk)
-[![License](https://img.shields.io/badge/License-Research%20Only-lightgrey)](#license)
+[![License](https://img.shields.io/badge/License-Research%20Only-red)](#license)
 
 Official implementation of **HAIMNet: A Hierarchical Adaptive Interaction and Modulation Network for Low-Light Image Enhancement**.
 <p align="center">
