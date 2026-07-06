@@ -26,7 +26,7 @@ This repository provides the source code, pretrained models, evaluation scripts,
 <summary>LOL Series</summary>
 
 <p align="center">
-  <img src="assets/LOL_series.png" width="50%">
+  <img src="assets/LOL_series_1.png" width="50%">
 </p>
 
 <p align="center">
