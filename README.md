@@ -1,4 +1,4 @@
-# HAIMNet
+# [TIP 2026] HAIMNet
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey)](#) 
 [![Code](https://img.shields.io/badge/Code-Available-brightgreen)](#)
 [![Weights](https://img.shields.io/badge/Weights-Baidu%20Pan-blue)](https://pan.baidu.com/s/1tVqnB3tovayq8DZkY0Nzbg?pwd=llzk)
@@ -180,7 +180,13 @@ Other datasets can be evaluated by replacing the dataset-specific arguments acco
 ## Citation
 If this work is useful for your research, please cite:
 ```bash
-Citation information will be updated once the paper is officially available.
+@article{wang2026haimnet,
+  title={HAIMNet: A Hierarchical Adaptive Interaction Modulation Network for Low-Light Image Enhancement},
+  author={Wang, Xiaofeng and Wang, Ziqian and Guo, Meijia and Chen, Qiuwei and HAO, YAJIE and LIU, YONGHUAI},
+  journal={IEEE Transactions on Image Processing},
+  year={2026},
+  publisher={Institute of Electrical and Electronics Engineers Inc.}
+}
 ```
 
 ## License
