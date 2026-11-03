@@ -1,7 +1,8 @@
 # [TIP 2026] HAIMNet
-[![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey)](#) 
+[![Paper](https://img.shields.io/badge/Paper-Available-brightgreen)](https://ieeexplore.ieee.org/abstract/document/11623402) 
 [![Code](https://img.shields.io/badge/Code-Available-brightgreen)](#)
 [![Weights](https://img.shields.io/badge/Weights-Baidu%20Pan-blue)](https://pan.baidu.com/s/1tVqnB3tovayq8DZkY0Nzbg?pwd=llzk)
+[![Weights](https://img.shields.io/badge/Weights-Google%20Drive-blue)](https://drive.google.com/drive/folders/1PhuTTXiXOym47FM2RD-MYwrBllWldIpG)
 [![License](https://img.shields.io/badge/License-Research%20Only-red)](#license)
 
 Official implementation of **HAIMNet: A Hierarchical Adaptive Interaction and Modulation Network for Low-Light Image Enhancement**.
@@ -105,7 +106,7 @@ This repository provides the source code, pretrained models, evaluation scripts,
 
 ## Getting Started
 ### Weights
-Pretrained weights on different datasets are available at [[Baidu Pan](https://pan.baidu.com/s/1tVqnB3tovayq8DZkY0Nzbg?pwd=llzk)] (code: `llzk`).
+Pretrained weights on different datasets are available at [[Baidu Pan](https://pan.baidu.com/s/1tVqnB3tovayq8DZkY0Nzbg?pwd=llzk)] (code: `llzk`) or [[Google Drive](https://drive.google.com/drive/folders/1PhuTTXiXOym47FM2RD-MYwrBllWldIpG)].
 
 Please download the weights and place them in the corresponding directory before running evaluation scripts.
 
